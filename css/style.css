@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Poppins',sans-serif;
-    background: url(../bg-01.jpg) ;
+    background: url(/images/bg-01.jpg) ;
     background-attachment: fixed;
     background-size: cover;
 }
@@ -21,7 +21,7 @@ header{
 
 }
 .logo{
-    color: #069370;
+    color: #066b93;
     height: 60px;
     font-size: 36px;
     line-height: 60px;
@@ -59,12 +59,12 @@ nav ul li a{
 }
 
 nav ul li a.active{
-    background: #069370;
+    background: ##066b93;
     color: #fff;
     transition: 0.5s;
 }
 nav ul li a.active, nav ul li a:hover{
-    background: #069370;
+    background: #066b93;
     color: #fff;
     transition: 0.5s;
 }
@@ -89,7 +89,7 @@ nav ul li a.active, nav ul li a:hover{
         cursor: pointer;
         text-align: center;
         font-size: 30px;
-        color: #069370;
+        color: #066b93;
     }
     .menu-toggle:before
     {
